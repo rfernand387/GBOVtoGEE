@@ -1,5 +1,4 @@
-Parses zip files of data from Ground Based Observations of Vegetation portal https://gbov.acri.fr/dataaccessRM/
-and uploads as collection to Google Earth Engine.
+Parses zip files of data from Ground Based Observations of Vegetation portal https://gbov.acri.fr/dataaccessRM/ into a csv file suitable for upload to GEE.
 
 Implemented as jupyter lab notebook.  
 
